@@ -1,6 +1,7 @@
 {
   "author": "Munita",
   "description": "Don't know what gonna happen but something will",
+  "keywords": ["freecodecamp", "course", "101", "valley of despair"]
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
