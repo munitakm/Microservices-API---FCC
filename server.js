@@ -54,6 +54,6 @@ app.use(function(err, req, res, next) {
 })
 
 app.listen(process.env.PORT || 3000, function () {
-  console.log('Node.js listening in http://localhost:3000');
+  console.log('Hello World');
 });
 
